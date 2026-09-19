@@ -2,7 +2,7 @@
 
 **The Global Cryptographic Notary for Proof of Payment**
 
-('0x61af906f53Eb927790055AC8eA99916a01873c15')
+(`0x61af906f53Eb927790055AC8eA99916a01873c15`)
 
 SOS (Secure Operations Signature) is a cryptographic system that provides **immutable proof of payment and economic action**.  
 It works with any payment method, does not store value, and replaces traditional escrow or notarization — making transactions secure, verifiable, and corruption-resistant.
